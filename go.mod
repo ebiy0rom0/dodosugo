@@ -1,3 +1,3 @@
-module github.com/dodosugo
+module dodosugo
 
 go 1.17
